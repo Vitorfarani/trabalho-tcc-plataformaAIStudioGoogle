@@ -1,0 +1,7 @@
+{
+  "name": "tcc-plataformaAIStudioGoogle",
+  "description": "Um aplicativo web para gestão financeira pessoal que permite registrar ganhos e despesas manualmente ou através do upload de recibos com reconhecimento de texto (OCR) via Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
